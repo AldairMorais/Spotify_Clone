@@ -149,10 +149,10 @@
                     <div class="flex flex-col items-center border-t border-opacity-20 pt-16 mt-28 border-white">
                         <p class="text-white text-opacity-50 mb-3 text-center">Por: Aldair António</p>
                         <div class="flex gap-x-4">
-                            <a href="http://" target="_blank"
+                            <a href="https://www.facebook.com/aldairmoraiss" target="_blank"
                                 class="py-2 px-5 hover:bg-opacity-60 transition-all rounded-full text-sm bg-white bg-opacity-50"
                                 rel="noopener noreferrer">Facebook</a>
-                            <a href="http://" target="_blank"
+                            <a href="https://www.linkedin.com/in/aldair-ant%C3%B3nio-7b2844234/" target="_blank"
                                 class="py-2 px-5 hover:bg-opacity-60 transition-all rounded-full text-sm bg-white bg-opacity-50"
                                 rel="noopener noreferrer">LinkedIn</a>
                         </div>
